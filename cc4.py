@@ -82,7 +82,10 @@ def draw_board(board, screen):
 
 def main_menu():
     pygame.init()  # Initialize Pygame here
-    print("Welcome to Connect 4")
+    print("-----------------------------------------------------------")
+    print("Welcome to Complex Connect 4 made by Anirudh Vasudevan")
+    print("-----------------------------------------------------------")
+
     print("1. Player vs Player")
     print("2. Player vs AI Bots")
     choice = input("Choose an option (1 or 2): ")
