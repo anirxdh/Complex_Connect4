@@ -40,6 +40,6 @@ This game is built on the foundation of code from the GitHub repository by chris
 - "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig
 
 ## Author
-**Anirudh Vasudevan**
+**Anirudh Vasudevan - anirudhvasudevan11@gmail.com**
 
 Feel free to fork, modify, and enjoy this game! For any queries or contributions, please reach out through GitHub.
